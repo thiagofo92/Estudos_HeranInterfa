@@ -1,0 +1,6 @@
+c:\users\thiago\documents\visual studio 2015\Projects\EstudosHeranInterfa\EstudosHeranInterfa\bin\Debug\EstudosHeranInterfa.exe.config
+c:\users\thiago\documents\visual studio 2015\Projects\EstudosHeranInterfa\EstudosHeranInterfa\bin\Debug\EstudosHeranInterfa.exe
+c:\users\thiago\documents\visual studio 2015\Projects\EstudosHeranInterfa\EstudosHeranInterfa\bin\Debug\EstudosHeranInterfa.pdb
+c:\users\thiago\documents\visual studio 2015\Projects\EstudosHeranInterfa\EstudosHeranInterfa\obj\Debug\EstudosHeranInterfa.csprojResolveAssemblyReference.cache
+c:\users\thiago\documents\visual studio 2015\Projects\EstudosHeranInterfa\EstudosHeranInterfa\obj\Debug\EstudosHeranInterfa.exe
+c:\users\thiago\documents\visual studio 2015\Projects\EstudosHeranInterfa\EstudosHeranInterfa\obj\Debug\EstudosHeranInterfa.pdb
