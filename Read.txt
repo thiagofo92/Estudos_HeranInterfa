@@ -1,3 +1,0 @@
-Esse código é para meu estudos sobre C#, não é nada muito avançado, mas vou tentar sempre melhorar ele de alguma for.
-
-This code is about my learning in C#, I'll to try improve this code always that i can.
